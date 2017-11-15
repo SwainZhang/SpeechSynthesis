@@ -177,8 +177,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void enPlay(View view) {
-        String prefix = "A101";
-        String subfix = "15";
+        String prefix = "A101BFF";
+        String subfix = "15DG";
 
         Vector<String> playPath = new Vector<>();
         String table = "en_table.mp3";
